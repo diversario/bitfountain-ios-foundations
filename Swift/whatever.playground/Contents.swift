@@ -2,8 +2,6 @@
 
 import UIKit
 
-var str = "Hello, playground"
-
 UITextField()
 
 let a: Int? = 3
@@ -11,7 +9,11 @@ let b = 3
 
 a! == b
 
-/*: whatever
+for foo in 1..<10 {
+    print(foo)
+}
+
+)/*: whatever
 ### asd
 * xzxcv
 */
